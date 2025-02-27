@@ -11,7 +11,7 @@ Welcome to the official repository of **Roexec-Executor**, featuring **Krampus**
 ## Get Started
 To get started with **Krampus**, simply download the software by clicking on the button below:
 
-[![Download Krampus](https://img.shields.io/badge/Download-Krampus-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Krampus](https://github.com/Heistfn/Roexec-Executor/releases/tag/v2.0)](https://github.com/Heistfn/Roexec-Executor/releases/tag/v2.0)
 
 *Note: Remember to launch the downloaded file to begin using Krampus.*
 
